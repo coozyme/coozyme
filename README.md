@@ -4,11 +4,12 @@ Currently I am open to any opportunity especially in IT as a Mobile Developer an
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
-    <img src="https://img.shields.io/badge/Code-Android-blue?&logo=Android" />
+    <img src="https://img.shields.io/badge/Code-Android-green?&logo=Android" />
     <img src="https://img.shields.io/badge/Code-Kotlin-blue?&logo=Kotlin" />
     <img src="https://img.shields.io/badge/Code-PHP-blue?&logo=PHP" />
-    <img src="https://img.shields.io/badge/FRAMEWORK-LARAVEL-blue?&logo=LARAVEL" />
-    <img src="https://img.shields.io/badge/IDE-Android-blue?&logo=Android-Studio" />
+    <img src="https://img.shields.io/badge/FRAMEWORK-LARAVEL-red?&logo=LARAVEL" />
+    <img src="https://img.shields.io/badge/IDE-Android-green?&logo=Android-Studio" />
+    <img src="https://img.shields.io/badge/IDE-Intellij-black?&logo=Intellij-IDEA" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
     <img src="https://gpvc.arturio.dev/arysetya" />
 </p>
