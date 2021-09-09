@@ -11,16 +11,16 @@ Currently I am open to any opportunity especially in IT as a Mobile Developer an
     <img src="https://img.shields.io/badge/IDE-Android-green?&logo=Android-Studio" />
     <img src="https://img.shields.io/badge/IDE-Intellij-black?&logo=Intellij-IDEA" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://gpvc.arturio.dev/arysetya" />
+    <img src="https://gpvc.arturio.dev/coozyme" />
 </p>
 
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🌱 Currently I am learning more about Android Native with kotlin </br>
+    - 🌱 Currently I am learning more about Mobile </br>
     - 👯 I’m looking to collaborate on open source </br>
     - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: <a href="mailto:programmeranak@gmail.com">Email me!</a>  </br>
+    - 📫 How to reach me: <a href="mailto:coozymee@gmail.com">Email me!</a>  </br>
     - ⚡ Fun fact: ... </br>
 </details>
 <p>
@@ -31,8 +31,8 @@ Currently I am open to any opportunity especially in IT as a Mobile Developer an
 <p>
     <a href="http://arysetya.me" target="blank"><img src="https://img.shields.io/badge/Website-https://arysetya.me-green?" /></a>
     <a href="https://www.linkedin.com/in/arysetya/" target="blank"><img src="https://img.shields.io/badge/arysetya-30302f?style=flat&logo=linkedin" /></a>
-    <a href="https://www.instagram.com/set.yaa/" target="blank"><img src="https://img.shields.io/badge/@set.yaa-30302f?style=flat&logo=instagram" /></a>
-    <a href="https://twitter.com/arysetyap_" target="blank"><img src="https://img.shields.io/badge/@arysetyap_-30302f?style=flat&logo=twitter" /></a>
+    <a href="https://www.instagram.com/arysetyap_/" target="blank"><img src="https://img.shields.io/badge/@arysetyap_-30302f?style=flat&logo=instagram" /></a>
+    <a href="https://twitter.com/arysetyap" target="blank"><img src="https://img.shields.io/badge/@arysetyap-30302f?style=flat&logo=twitter" /></a>
     <a href="https://www.paypal.com/paypalme/ArySetyaPambudi" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
 </p>
 
