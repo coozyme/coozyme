@@ -1,18 +1,4 @@
 # Hi there 👋 , I'm Ary Setya Pambudi!
-Currently I am open to any opportunity especially in IT as a Mobile Developer and Software Engineer. 
-
-### Tools:
-<p>
-    <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
-    <img src="https://img.shields.io/badge/Code-Android-green?&logo=Android" />
-    <img src="https://img.shields.io/badge/Code-Kotlin-blue?&logo=Kotlin" />
-    <img src="https://img.shields.io/badge/Code-PHP-blue?&logo=PHP" />
-    <img src="https://img.shields.io/badge/FRAMEWORK-LARAVEL-red?&logo=LARAVEL" />
-    <img src="https://img.shields.io/badge/IDE-Android-green?&logo=Android-Studio" />
-    <img src="https://img.shields.io/badge/IDE-Intellij-black?&logo=Intellij-IDEA" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://gpvc.arturio.dev/coozyme" />
-</p>
 
 ### Stats:
 <details>
@@ -21,11 +7,8 @@ Currently I am open to any opportunity especially in IT as a Mobile Developer an
     - 👯 I’m looking to collaborate on open source </br>
     - 💬 Ask me about anything.</br>
     - 📫 How to reach me: <a href="mailto:coozymee@gmail.com">Email me!</a>  </br>
-    - ⚡ Fun fact: ... </br>
 </details>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=coozyme&show_icons=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coozyme&layout=compact" height=180 />
-</p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=coozyme&show_icons=true&theme=nightowl&locale=en" alt="coozyme" /></p>
 
 ### Let's connect!
 <p>
