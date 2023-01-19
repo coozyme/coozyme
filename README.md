@@ -1,6 +1,4 @@
-# Hi there 👋 , I'm Ary Setya Pambudi!
-
-### Stats:
+# Hi there 👋 , I'm Ary Setya P.!
 
 ### Let's connect!
 <p>
