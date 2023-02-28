@@ -1,4 +1,4 @@
-# Hi there 👋 , I'm Ary Setya P.!
+# Hi there 👋 , I'm Ary Setya P.
 
 ### Let's connect!
 <p>
